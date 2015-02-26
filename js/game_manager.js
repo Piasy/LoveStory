@@ -17,11 +17,11 @@ function GameManager(size, InputManager, Actuator) {
   this.inputManager.on('run', function() {
     if (this.running) {
       this.running = false;
-      this.actuator.setRunButton('Auto-run');
+      this.actuator.setRunButton('交给我吧');
     } else {
       this.running = true;
       this.run()
-      this.actuator.setRunButton('Stop');
+      this.actuator.setRunButton('你自己来');
     }
   }.bind(this));
 
@@ -32,12 +32,14 @@ function GameManager(size, InputManager, Actuator) {
 GameManager.prototype.restart = function () {
   if (this.won)
   {
-	document.write('<!DOCTYPE html><html lang="en"><head><title>Our Trip</title><meta charset="utf-8"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-touch-fullscreen" content="yes"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><style>html, body {height:100%;padding: 0px;    margin: 0px;    }   </style><script type="text/javascript" src="build/js/jquery.min.js"></script>  </head>  <body>    <div id="timeline-embed"></div>      <script type="text/javascript">        var timeline_config = {         width: "100%",         height: "100%",         source: "https://docs.google.com/spreadsheet/pub?key=0AkMdj0hth5RYdEZIR25PQ3V3NWRaajREZGlGY0pYX1E&output=html",		 lang:               "zh-cn", debug:true        }      </script>      <script type="text/javascript" src="build/js/storyjs-embed.js"></script>  </body></html>');
-	//document.write("<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Our Trip</title></head><iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkMdj0hth5RYdEZIR25PQ3V3NWRaajREZGlGY0pYX1E&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe></html>");
+      //window.navigate("timeline.html");
+      window.location.href="timeline.html";
+	    //document.write('<!DOCTYPE html><html lang="en"><head><title>Our Trip</title><meta charset="utf-8"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-touch-fullscreen" content="yes"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><style>html, body {height:100%;padding: 0px;    margin: 0px;    }   </style><script type="text/javascript" src="build/js/jquery.min.js"></script>  </head>  <body>    <div id="timeline-embed"></div>      <script type="text/javascript">        var timeline_config = {         width: "100%",         height: "100%",         source: "https://docs.google.com/spreadsheet/pub?key=0AkMdj0hth5RYdEZIR25PQ3V3NWRaajREZGlGY0pYX1E&output=html",		 lang:               "zh-cn", debug:true        }      </script>      <script type="text/javascript" src="build/js/storyjs-embed.js"></script>  </body></html>');
+	    //document.write("<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Our Trip</title></head><iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkMdj0hth5RYdEZIR25PQ3V3NWRaajREZGlGY0pYX1E&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe></html>");
   }
   this.actuator.restart();
   this.running = false;
-  this.actuator.setRunButton('Auto-run');
+  this.actuator.setRunButton('交给我吧');
   this.setup();
 };
 

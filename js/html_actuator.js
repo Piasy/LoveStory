@@ -53,7 +53,7 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   //set content of a gird
   //element.textContent = tile.value;
-  
+
   inner.setAttribute('src', 'img/' + tile.value + '.jpg');
   www = document.getElementsByClassName("grid-cell")[0].clientWidth;
   hhh = document.getElementsByClassName("grid-cell")[0].clientHeight;
@@ -80,7 +80,7 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   // Add the inner part of the tile to the element
   element.appendChild(inner);
-  
+
   // Put the tile on the board
   this.tileContainer.appendChild(element);
 };
@@ -117,7 +117,7 @@ HTMLActuator.prototype.updateScore = function (score) {
 
 HTMLActuator.prototype.message = function (won) {
   var type    = won ? "game-won" : "game-over";
-  var message = won ? "You win!" : "Game over!"
+  var message = won ? "成功啦！" : "失败了哦！"
 
   // if (ga) ga("send", "event", "game", "end", type, this.score);
 
@@ -125,7 +125,7 @@ HTMLActuator.prototype.message = function (won) {
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
   if (won)
   {
-	this.messageContainer.getElementsByClassName("lower")[0].getElementsByClassName("retry-button")[0].textContent = 'Go ahead';
+	this.messageContainer.getElementsByClassName("lower")[0].getElementsByClassName("retry-button")[0].textContent = '向前一步';
   }
 
   //this.clearContainer(this.sharingContainer);
