@@ -5,9 +5,9 @@
         "type":"default",
         "text":"2011.10.1-2015.3.19</br>41个月</br>1265个日夜</br>30360个小时<br>我们一起走过！",
         "asset": {
-            "media":"/img/Anniversary.jpg",
+            "media":"/LoveStory/img/Anniversary.jpg",
             "credit":"",
-            "caption":"<a href=\"/img/Anniversary.jpg\" title=\"周年纪念\">周年纪念</a>"
+            "caption":"<a href=\"/LoveStory/img/Anniversary.jpg\" title=\"周年纪念\">周年纪念</a>"
         },
         "date": [
             {
@@ -18,9 +18,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/0.jpg",
+                    "media":"/LoveStory/img/0.jpg",
                     "credit":"北京，西北郊",
-                    "caption":"<a href=\"/img/0.jpg\" title=\"初见，阳台\">阳台山</a>"
+                    "caption":"<a href=\"/LoveStory/img/0.jpg\" title=\"初见，阳台\">阳台山</a>"
                 }
             },
             {
@@ -31,9 +31,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/1.jpg",
+                    "media":"/LoveStory/img/1.jpg",
                     "credit":"北京，昌平，兴寿",
-                    "caption":"<a href=\"/img/1.jpg\" title=\"草莓节\">世界草莓节</a>"
+                    "caption":"<a href=\"/LoveStory/img/1.jpg\" title=\"草莓节\">世界草莓节</a>"
                 }
             },
             {
@@ -44,9 +44,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/2_1.jpg",
+                    "media":"/LoveStory/img/2_1.jpg",
                     "credit":"北京，昌平，石油大学",
-                    "caption":"<a href=\"/img/2_1.jpg\" title=\"恐龙博物馆\">恐龙博物馆</a>"
+                    "caption":"<a href=\"/LoveStory/img/2_1.jpg\" title=\"恐龙博物馆\">恐龙博物馆</a>"
                 }
             },
             {
@@ -57,9 +57,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/6.jpg",
+                    "media":"/LoveStory/img/6.jpg",
                     "credit":"北京，昌平，十三陵",
-                    "caption":"<a href=\"/img/6.jpg\" title=\"十三陵\">十三陵，长陵</a>"
+                    "caption":"<a href=\"/LoveStory/img/6.jpg\" title=\"十三陵\">十三陵，长陵</a>"
                 }
             },
             {
@@ -70,9 +70,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/8_1.jpg",
+                    "media":"/LoveStory/img/8_1.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/8_1.jpg\" title=\"栈桥\">栈桥</a>"
+                    "caption":"<a href=\"/LoveStory/img/8_1.jpg\" title=\"栈桥\">栈桥</a>"
                 }
             },
             {
@@ -83,9 +83,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/10.jpg",
+                    "media":"/LoveStory/img/10.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/10.jpg\" title=\"栈桥\">栈桥</a>"
+                    "caption":"<a href=\"/LoveStory/img/10.jpg\" title=\"栈桥\">栈桥</a>"
                 }
             },
             {
@@ -96,9 +96,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/13.jpg",
+                    "media":"/LoveStory/img/13.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/13.jpg\" title=\"信号山公园\">信号山公园</a>"
+                    "caption":"<a href=\"/LoveStory/img/13.jpg\" title=\"信号山公园\">信号山公园</a>"
                 }
             },
             {
@@ -109,9 +109,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/16_1.jpg",
+                    "media":"/LoveStory/img/16_1.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/16_1.jpg\" title=\"海洋大学\">海洋大学</a>"
+                    "caption":"<a href=\"/LoveStory/img/16_1.jpg\" title=\"海洋大学\">海洋大学</a>"
                 }
             },
             {
@@ -122,9 +122,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/30.jpg",
+                    "media":"/LoveStory/img/30.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/30.jpg\" title=\"天幕城\">天幕城</a>"
+                    "caption":"<a href=\"/LoveStory/img/30.jpg\" title=\"天幕城\">天幕城</a>"
                 }
             },
             {
@@ -135,9 +135,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/33.jpg",
+                    "media":"/LoveStory/img/33.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/33.jpg\" title=\"崂山\">崂山</a>"
+                    "caption":"<a href=\"/LoveStory/img/33.jpg\" title=\"崂山\">崂山</a>"
                 }
             },
             {
@@ -161,9 +161,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/35.jpg",
+                    "media":"/LoveStory/img/35.jpg",
                     "credit":"山东，青岛",
-                    "caption":"<a href=\"/img/35.jpg\" title=\"金沙滩\">金沙滩</a>"
+                    "caption":"<a href=\"/LoveStory/img/35.jpg\" title=\"金沙滩\">金沙滩</a>"
                 }
             },
             {
@@ -174,9 +174,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/36.jpg",
+                    "media":"/LoveStory/img/36.jpg",
                     "credit":"湘西，凤凰",
-                    "caption":"<a href=\"/img/36.jpg\" title=\"沱江夜色\">沱江夜色</a>"
+                    "caption":"<a href=\"/LoveStory/img/36.jpg\" title=\"沱江夜色\">沱江夜色</a>"
                 }
             },
             {
@@ -187,9 +187,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/37.jpg",
+                    "media":"/LoveStory/img/37.jpg",
                     "credit":"湘西，凤凰",
-                    "caption":"<a href=\"/img/37.jpg\" title=\"沱江夜色\">沱江夜色</a>"
+                    "caption":"<a href=\"/LoveStory/img/37.jpg\" title=\"沱江夜色\">沱江夜色</a>"
                 }
             },
             {
@@ -200,9 +200,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/40.jpg",
+                    "media":"/LoveStory/img/40.jpg",
                     "credit":"湘西，凤凰",
-                    "caption":"<a href=\"/img/40.jpg\" title=\"沱江跳岩\">沱江跳岩</a>"
+                    "caption":"<a href=\"/LoveStory/img/40.jpg\" title=\"沱江跳岩\">沱江跳岩</a>"
                 }
             },
             {
@@ -213,9 +213,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/43.jpg",
+                    "media":"/LoveStory/img/43.jpg",
                     "credit":"湘西，张家界",
-                    "caption":"<a href=\"/img/43.jpg\" title=\"张家界顶\">张家界顶</a>"
+                    "caption":"<a href=\"/LoveStory/img/43.jpg\" title=\"张家界顶\">张家界顶</a>"
                 }
             },
             {
@@ -226,9 +226,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/45.jpg",
+                    "media":"/LoveStory/img/45.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/45.jpg\" title=\"西安\">西安火车站</a>"
+                    "caption":"<a href=\"/LoveStory/img/45.jpg\" title=\"西安\">西安火车站</a>"
                 }
             },
             {
@@ -239,9 +239,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/47.jpg",
+                    "media":"/LoveStory/img/47.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/47.jpg\" title=\"西安\">西安古城墙</a>"
+                    "caption":"<a href=\"/LoveStory/img/47.jpg\" title=\"西安\">西安古城墙</a>"
                 }
             },
             {
@@ -252,9 +252,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/49.jpg",
+                    "media":"/LoveStory/img/49.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/49.jpg\" title=\"西安\">西安古城墙</a>"
+                    "caption":"<a href=\"/LoveStory/img/49.jpg\" title=\"西安\">西安古城墙</a>"
                 }
             },
             {
@@ -265,9 +265,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/56.jpg",
+                    "media":"/LoveStory/img/56.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/56.jpg\" title=\"西安\">大雁塔，大慈恩寺</a>"
+                    "caption":"<a href=\"/LoveStory/img/56.jpg\" title=\"西安\">大雁塔，大慈恩寺</a>"
                 }
             },
             {
@@ -278,9 +278,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/60.jpg",
+                    "media":"/LoveStory/img/60.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/60.jpg\" title=\"西安\">华清池</a>"
+                    "caption":"<a href=\"/LoveStory/img/60.jpg\" title=\"西安\">华清池</a>"
                 }
             },
             {
@@ -291,9 +291,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/61.jpg",
+                    "media":"/LoveStory/img/61.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/61.jpg\" title=\"西安\">华清池</a>"
+                    "caption":"<a href=\"/LoveStory/img/61.jpg\" title=\"西安\">华清池</a>"
                 }
             },
             {
@@ -304,9 +304,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/84.jpg",
+                    "media":"/LoveStory/img/84.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/84.jpg\" title=\"西安\">大唐芙蓉园</a>"
+                    "caption":"<a href=\"/LoveStory/img/84.jpg\" title=\"西安\">大唐芙蓉园</a>"
                 }
             },
             {
@@ -317,9 +317,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/93.jpg",
+                    "media":"/LoveStory/img/93.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/93.jpg\" title=\"西安\">陕西历史博物馆</a>"
+                    "caption":"<a href=\"/LoveStory/img/93.jpg\" title=\"西安\">陕西历史博物馆</a>"
                 }
             },
             {
@@ -330,9 +330,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/102.jpg",
+                    "media":"/LoveStory/img/102.jpg",
                     "credit":"陕西，西安",
-                    "caption":"<a href=\"/img/102.jpg\" title=\"西安\">华山，北峰顶</a>"
+                    "caption":"<a href=\"/LoveStory/img/102.jpg\" title=\"西安\">华山，北峰顶</a>"
                 }
             },
             {
@@ -356,9 +356,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/104.jpg",
+                    "media":"/LoveStory/img/104.jpg",
                     "credit":"上海",
-                    "caption":"<a href=\"/img/104.jpg\" title=\"上海\">上海世博会中国馆</a>"
+                    "caption":"<a href=\"/LoveStory/img/104.jpg\" title=\"上海\">上海世博会中国馆</a>"
                 }
             },
             {
@@ -369,9 +369,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/105.jpg",
+                    "media":"/LoveStory/img/105.jpg",
                     "credit":"江苏，苏州",
-                    "caption":"<a href=\"/img/105.jpg\" title=\"苏州\">拙政园</a>"
+                    "caption":"<a href=\"/LoveStory/img/105.jpg\" title=\"苏州\">拙政园</a>"
                 }
             },
             {
@@ -382,9 +382,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/img/106.jpg",
+                    "media":"/LoveStory/img/106.jpg",
                     "credit":"江苏，苏州",
-                    "caption":"<a href=\"/img/106.jpg\" title=\"苏州\">寒山寺</a>"
+                    "caption":"<a href=\"/LoveStory/img/106.jpg\" title=\"苏州\">寒山寺</a>"
                 }
             },
             {
