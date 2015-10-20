@@ -22,12 +22,12 @@
 				<canvas id="garden"></canvas>
 				<div id="words">
 					<div id="messages">
-						宝宝，我们在一起
+						宝宝，我们在一起了
 						<div id="elapseClock"></div>
 					</div>
 					<div id="loveu">
-						<a href="game.html">爱你一生、一世</a><br/>
-						<div class="signature">- 爱你的老公</div><br/>
+						<!--<a href="game.html">爱你一生、一世</a><br/>
+						<div class="signature">- 爱你的老公</div><br/>-->
 					</div>
 				</div>
 			</div>
@@ -58,9 +58,11 @@
 			}, 100);
 
 			timeElapse(together);
-			setInterval(function () {
+			/*setInterval(function () {
 				timeElapse(together);
-			}, 500);
+			}, 500);*/
+			var result = "<span class=\"digit\">" + 1265 + "</span> 天 <span class=\"digit\">" + 13 + "</span> 小时 <span class=\"digit\">" + 16 + "</span> 分钟 <span class=\"digit\">" + 00 + "</span> 秒";
+			$("#elapseClock").html(result);
 		}
 	</script>
 </body>
