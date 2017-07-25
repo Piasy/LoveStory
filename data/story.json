@@ -148,7 +148,7 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"https://maps.google.com/?saddr=36.072139,120.421866&hl=zh-CN&sll=36.072122,120.421818&sspn=0.001277,0.002476&brcurrent=3,0x3596110141fc9027:0xb53feb839c6d88ef,0,0x3596103d3c60e2ed:0x3fabfe5728c26e16%3B5,0,0&mra=mift&mrsp=0&sz=19&t=m&z=19",
+                    "media":"https://www.google.com/maps/place/36%C2%B004'19.6%22N+120%C2%B025'18.5%22E/@36.0721231,120.4212708,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d36.072122!4d120.421818",
                     "credit":"",
                     "caption":""
                 }
