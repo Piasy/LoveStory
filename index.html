@@ -43,6 +43,32 @@
 		together.setSeconds(14);
 		together.setMilliseconds(0);
 
+		var ending = new Date();
+		ending.setFullYear(2020, 8, 5);
+		ending.setHours(15);
+		ending.setMinutes(1);
+		ending.setSeconds(0);
+		ending.setMilliseconds(0);
+
+		var f = (ending - together)/1000;
+		var g = Math.floor(f / (3600 * 24));
+		f = f % (3600 * 24);
+		var b = Math.floor(f / 3600);
+		if (b < 10) {
+			b = "0" + b
+		}
+		f = f % 3600;
+		var d = Math.floor(f / 60);
+		if (d < 10) {
+			d = "0" + d
+		}
+		f = f % 60;
+		if (f < 10) {
+			f = "0" + f
+		}
+		var a = '<span class="digit">' + g + '</span> 天 <span class="digit">' + b + '</span> 小时 <span class="digit">' + d + '</span> 分钟 <span class="digit">' + f + "</span> 秒";
+		$("#elapseClock").html(a)
+		
 		if (!document.createElement('canvas').getContext) {
 			var msg = document.createElement("div");
 			msg.id = "errorMsg";
@@ -57,10 +83,10 @@
 				startHeartAnimation();
 			}, 100);
 
-			timeElapse(together);
+			/*timeElapse(together);
 			setInterval(function () {
 				timeElapse(together);
-			}, 500);
+			}, 500);*/
 		}
 	</script>
 </body>
