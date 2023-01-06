@@ -18,13 +18,14 @@
         if (status == "success") {
           var start = new Date();
           start.setFullYear(2011,9,1);
-          var now = new Date();
-          var month = (now.getFullYear() - start.getFullYear()) * 12 +
-              (now.getMonth() - start.getMonth());
-          var day = Math.floor((now.getTime() - start.getTime()) / (24 * 60 * 60 * 1000));
-          var hour = Math.floor((now.getTime() - start.getTime()) / (60 * 60 * 1000));
+          var end = new Date();
+          end.setFullYear(2020,8,5);
+          var month = (end.getFullYear() - start.getFullYear()) * 12 +
+              (end.getMonth() - start.getMonth());
+          var day = Math.floor((end.getTime() - start.getTime()) / (24 * 60 * 60 * 1000));
+          var hour = Math.floor((end.getTime() - start.getTime()) / (60 * 60 * 1000));
           data.timeline.text = "2011.10.1-" +
-              now.getFullYear() + "." + (now.getMonth() + 1) + "." + now.getDate() +
+              end.getFullYear() + "." + (end.getMonth() + 1) + "." + end.getDate() +
               "</br>" + month + "个月</br>" + day + "个日夜</br>" + hour +
               "个小时<br>我们一起走过！";
           createStoryJS({
